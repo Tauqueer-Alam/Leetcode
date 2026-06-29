@@ -5,12 +5,18 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 ## Database
 |  |
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
