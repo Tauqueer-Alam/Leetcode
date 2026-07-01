@@ -21,6 +21,7 @@
 |  |
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
+| [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
 ## Sorting
 |  |
 | ------- |
