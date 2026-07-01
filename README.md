@@ -25,6 +25,7 @@
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0009-palindrome-number) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
