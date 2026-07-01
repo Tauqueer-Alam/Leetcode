@@ -26,6 +26,7 @@
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
 | ------- |
