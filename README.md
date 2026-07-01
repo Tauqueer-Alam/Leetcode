@@ -66,4 +66,12 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
