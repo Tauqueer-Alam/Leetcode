@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
+| [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -28,6 +29,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
