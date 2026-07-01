@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
@@ -39,5 +41,6 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0709-to-lower-case](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0709-to-lower-case) |
 <!---LeetCode Topics End-->
