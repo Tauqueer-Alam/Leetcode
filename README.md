@@ -10,6 +10,7 @@
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Hash Table
@@ -19,6 +20,7 @@
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
@@ -31,6 +33,7 @@
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +50,7 @@
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 ## String
 |  |
@@ -87,5 +91,6 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
