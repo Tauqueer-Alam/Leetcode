@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
@@ -20,6 +21,7 @@
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -33,6 +35,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -42,6 +45,7 @@
 | [0009-palindrome-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
@@ -51,6 +55,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
@@ -99,4 +104,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
