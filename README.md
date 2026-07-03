@@ -26,6 +26,7 @@
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
@@ -58,6 +59,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Binary Search
 |  |
@@ -73,6 +75,7 @@
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0709-to-lower-case) |
 ## Rolling Hash
