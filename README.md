@@ -79,6 +79,7 @@
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0709-to-lower-case) |
 ## Rolling Hash
@@ -115,6 +116,7 @@
 | [0088-merge-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Heap (Priority Queue)
@@ -126,4 +128,8 @@
 | ------- |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 <!---LeetCode Topics End-->
