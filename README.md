@@ -27,6 +27,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 ## Database
 |  |
@@ -46,6 +47,7 @@
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -76,6 +78,7 @@
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0709-to-lower-case) |
 ## Rolling Hash
@@ -122,4 +125,5 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
