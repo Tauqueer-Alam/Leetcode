@@ -94,6 +94,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Rolling Hash
 |  |
@@ -132,6 +133,7 @@
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -157,4 +159,8 @@
 |  |
 | ------- |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
+## Stack
+|  |
+| ------- |
+| [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 <!---LeetCode Topics End-->
