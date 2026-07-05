@@ -20,6 +20,7 @@
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -136,6 +139,7 @@
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
