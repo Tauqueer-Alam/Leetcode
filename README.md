@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -143,4 +144,5 @@
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
