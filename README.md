@@ -79,6 +79,7 @@
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
 |  |
