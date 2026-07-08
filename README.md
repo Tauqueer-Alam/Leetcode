@@ -104,6 +104,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
@@ -199,6 +200,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
