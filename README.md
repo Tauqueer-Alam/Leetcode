@@ -78,6 +78,7 @@
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
+| [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -185,6 +186,7 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
+| [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -219,4 +221,12 @@
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
