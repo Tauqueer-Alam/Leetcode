@@ -205,6 +205,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -233,4 +234,12 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
