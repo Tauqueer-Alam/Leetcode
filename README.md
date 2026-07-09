@@ -39,6 +39,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -110,6 +112,7 @@
 | [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -245,4 +248,5 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
