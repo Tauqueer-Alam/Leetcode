@@ -64,6 +64,7 @@
 | [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1587-bank-account-summary-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
+| [1873-calculate-special-bonus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1907-count-salary-categories) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Sorting
