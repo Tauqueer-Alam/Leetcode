@@ -60,6 +60,7 @@
 | [0585-investments-in-2016](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0619-biggest-single-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0619-biggest-single-number) |
+| [0620-not-boring-movies](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1587-bank-account-summary-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
