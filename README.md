@@ -63,6 +63,7 @@
 | [0619-biggest-single-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1148-article-views-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1148-article-views-i) |
 | [1587-bank-account-summary-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1873-calculate-special-bonus) |
