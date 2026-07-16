@@ -67,6 +67,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1587-bank-account-summary-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1873-calculate-special-bonus) |
