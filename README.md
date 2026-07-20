@@ -180,6 +180,7 @@
 | [0206-reverse-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
@@ -212,6 +213,7 @@
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0876-middle-of-the-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
