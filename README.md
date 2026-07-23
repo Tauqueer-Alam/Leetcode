@@ -182,6 +182,7 @@
 | [0002-add-two-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0086-partition-list) |
@@ -230,6 +231,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
@@ -258,6 +260,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0148-sort-list) |
@@ -370,5 +373,6 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
