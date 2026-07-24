@@ -322,6 +322,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -337,6 +338,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
@@ -347,6 +349,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -368,6 +371,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
