@@ -149,6 +149,7 @@
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
+| [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -336,6 +337,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
@@ -351,6 +353,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -367,6 +370,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
@@ -392,4 +396,8 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
