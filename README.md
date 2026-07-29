@@ -347,6 +347,7 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -365,6 +366,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -389,6 +391,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
+| [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -400,6 +403,7 @@
 | [0112-path-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
