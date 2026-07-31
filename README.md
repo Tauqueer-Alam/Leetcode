@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -250,6 +251,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
 | [0137-single-number-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -435,6 +437,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Quickselect
