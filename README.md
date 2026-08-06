@@ -91,6 +91,7 @@
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1873-calculate-special-bonus) |
 | [1907-count-salary-categories](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1907-count-salary-categories) |
+| [1934-confirmation-rate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1934-confirmation-rate) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Sorting
