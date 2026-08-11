@@ -174,6 +174,7 @@
 | [0709-to-lower-case](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1079-letter-tile-possibilities](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1079-letter-tile-possibilities) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -464,4 +465,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
+## Greedy
+|  |
+| ------- |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 <!---LeetCode Topics End-->
