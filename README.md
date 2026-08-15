@@ -479,4 +479,12 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
