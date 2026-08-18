@@ -41,6 +41,7 @@
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -328,6 +329,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0724-find-pivot-index](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
