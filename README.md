@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
@@ -288,6 +289,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
@@ -304,6 +306,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
+| [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
