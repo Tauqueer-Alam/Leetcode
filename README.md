@@ -36,6 +36,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -164,6 +165,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -333,6 +335,7 @@
 | [0148-sort-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Stack
@@ -547,4 +550,5 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
