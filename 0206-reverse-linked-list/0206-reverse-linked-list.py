@@ -5,15 +5,24 @@
 #         self.next = next
 class Solution(object):
     def reverseList(self, head):
+        li=[]
+
         current=head
-        prev=None
 
-        while current!=None:
+        while current:
+            li.append(current.val)
+            current=current.next
 
-            next_node = current.next   # Store next node
-            current.next = prev        # Reverse the link
-            prev = current             # Move prev forward
-            current = next_node        # Move current forward
+        li.reverse()    
+        
+        if len(li)==0:
+            return None
 
-        return prev
+        newhead=ListNode(li[0])
+        current=newhead
+        for i in range(1,len(li)):
+            current.next=ListNode(li[i])   
+            current=current.next
+
+        return newhead     
         
