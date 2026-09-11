@@ -1,11 +1,12 @@
 class Solution(object):
     def sortColors(self, nums):
-        for i in range(len(nums)):
-            for j in range(len(nums)-1-i):
+        n=len(nums)
+        for i in range(n):
+            for j in range(n-1):
                 if nums[j]>nums[j+1]:
                     temp=nums[j]
                     nums[j]=nums[j+1]
                     nums[j+1]=temp
-        return nums    
 
+        return nums            
         
