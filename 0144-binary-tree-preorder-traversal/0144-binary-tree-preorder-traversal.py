@@ -6,17 +6,18 @@
 #         self.right = right
 class Solution(object):
     def preorderTraversal(self, root):
-        list=[]
 
-        def preorder(node):
-            if not node:
+        ans=[]
+        def preorder(root):
+            if not root:
                 return
 
-            list.append(node.val)
+            ans.append(root.val)
+            preorder(root.left)   
+            preorder(root.right)  
 
-            preorder(node.left)
-            preorder(node.right)
+        preorder(root)
+        return ans    
 
 
-        preorder(root)   
-        return list    
+        
