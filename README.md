@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
@@ -60,8 +60,8 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -87,8 +87,8 @@
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Database
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0180-consecutive-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0180-consecutive-numbers) |
 | [0185-department-top-three-salaries](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0585-investments-in-2016](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0585-investments-in-2016) |
@@ -112,8 +112,8 @@
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 | [3220-odd-and-even-transactions](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3220-odd-and-even-transactions) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0018-4sum) |
@@ -133,8 +133,8 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0009-palindrome-number) |
@@ -148,8 +148,8 @@
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -160,8 +160,8 @@
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0035-search-insert-position) |
@@ -181,8 +181,8 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
@@ -210,25 +210,25 @@
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0214-shortest-palindrome](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0214-shortest-palindrome) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0014-longest-common-prefix) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0021-merge-two-sorted-lists) |
@@ -248,8 +248,8 @@
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
@@ -258,8 +258,8 @@
 | [0206-reverse-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0016-3sum-closest) |
@@ -292,8 +292,8 @@
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -301,8 +301,8 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0136-single-number) |
@@ -312,14 +312,14 @@
 | [0389-find-the-difference](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0389-find-the-difference) |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -328,8 +328,8 @@
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -342,8 +342,8 @@
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -358,8 +358,8 @@
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -367,43 +367,43 @@
 | [0724-find-pivot-index](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Ordered Set
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 ## Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
@@ -428,8 +428,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
@@ -447,8 +447,8 @@
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
@@ -472,8 +472,8 @@
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0100-same-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -484,24 +484,24 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
 ## Binary Search Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Interactive
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0278-first-bad-version](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0278-first-bad-version) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0148-sort-list) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0046-permutations](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0090-subsets-ii) |
@@ -509,51 +509,51 @@
 | [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [1079-letter-tile-possibilities](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1079-letter-tile-possibilities) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0011-container-with-most-water) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0229-majority-element-ii) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
 ## Bubble Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0075-sort-colors](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0075-sort-colors) |
 ## Z Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Knuth–Morris–Pratt Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Boyer–Moore String-Search Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Ternary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
