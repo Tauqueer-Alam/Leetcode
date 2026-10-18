@@ -101,6 +101,7 @@
 | [1045-customers-who-bought-all-products](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1068-product-sales-analysis-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1070-product-sales-analysis-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
+| [1084-sales-analysis-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1148-article-views-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1251-average-selling-price) |
