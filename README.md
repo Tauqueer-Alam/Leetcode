@@ -112,6 +112,7 @@
 | [1667-fix-names-in-a-table](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1683-invalid-tweets) |
 | [1873-calculate-special-bonus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1873-calculate-special-bonus) |
+| [1890-the-latest-login-in-2020](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1890-the-latest-login-in-2020/) | Easy |
 | [1907-count-salary-categories](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1934-confirmation-rate) |
 | [1965-employees-with-missing-information](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1965-employees-with-missing-information/) | Easy |
