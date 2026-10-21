@@ -107,6 +107,7 @@
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+| [1393-capital-gainloss](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1393-capital-gainloss/) | Medium |
 | [1407-top-travellers](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1407-top-travellers/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1587-bank-account-summary-ii) |
 | [1667-fix-names-in-a-table](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1667-fix-names-in-a-table) |
