@@ -103,6 +103,7 @@
 | [1070-product-sales-analysis-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1084-sales-analysis-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1084-sales-analysis-iii/) | Easy |
 | [1148-article-views-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1148-article-views-i) |
+| [1164-product-price-at-a-given-date](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1164-product-price-at-a-given-date/) | Medium |
 | [1193-monthly-transactions-i](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1193-monthly-transactions-i/) | Medium |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1251-average-selling-price](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1251-average-selling-price) |
