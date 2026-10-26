@@ -1,3 +1,4 @@
+
 from collections import deque
 
 class Solution(object):
@@ -9,10 +10,10 @@ class Solution(object):
         ans = []
 
         while queue:
+            level_size = len(queue)
             level = []
 
-            # Number of nodes in the current level
-            for _ in range(len(queue)):
+            for i in range(level_size):
                 node = queue.popleft()
                 level.append(node.val)
 
