@@ -459,6 +459,7 @@
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -496,6 +497,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -578,4 +580,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
