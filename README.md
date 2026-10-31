@@ -151,6 +151,7 @@
 | [0013-roman-to-integer](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
@@ -328,6 +329,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0392-is-subsequence](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1025-divisor-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1025-divisor-game) |
@@ -594,5 +596,6 @@
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
