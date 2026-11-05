@@ -441,6 +441,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
@@ -463,6 +464,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -489,6 +491,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
@@ -512,6 +515,7 @@
 | [0098-validate-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
+| [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Interactive
