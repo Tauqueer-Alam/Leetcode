@@ -1,17 +1,21 @@
 class Solution(object):
     def reverse(self, x):
         if x<0:
-            string=str(-x)
-            rev=int(string[::-1])
-            rev=-rev
-            if rev < -(2**31) or rev > 2**31 - 1:
-                return 0
-            return rev
-
+            value_neg=True
+            x=-x
         else:
-            string=str(x)
-            rev=int(string[::-1])
-            if rev < -(2**31) or rev > 2**31 - 1:
-                return 0
-            return rev
+            value_neg=False    
+        string=str(x)
+        rev=string[::-1]
+        integer=int(rev)
+        if value_neg==True:
+            ans=-integer
+        else:
+            ans=integer    
         
+
+        if -2**31 <= ans <= 2**31 - 1:
+            return ans
+        else:
+            return 0
+            
