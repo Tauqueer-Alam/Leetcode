@@ -49,6 +49,7 @@
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0624-maximum-distance-in-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
@@ -558,6 +559,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0011-container-with-most-water) |
+| [0624-maximum-distance-in-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
