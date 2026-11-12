@@ -51,6 +51,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0624-maximum-distance-in-arrays](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0624-maximum-distance-in-arrays/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0713-subarray-product-less-than-k) |
@@ -365,6 +366,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Stack
 | Problem Name | Difficulty |
@@ -379,6 +381,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0682-baseball-game](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0682-baseball-game) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -454,6 +457,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -503,6 +507,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0501-find-mode-in-binary-search-tree/) | Easy |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1302-deepest-leaves-sum](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1302-deepest-leaves-sum) |
@@ -617,4 +622,12 @@
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
+## Cartesian Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0654-maximum-binary-tree](https://github.com/Tauqueer-Alam/Leetcode/tree/main/0654-maximum-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
