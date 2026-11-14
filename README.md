@@ -59,6 +59,7 @@
 | [0852-peak-index-in-a-mountain-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1046-last-stone-weight](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1046-last-stone-weight) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Tauqueer-Alam/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -351,6 +352,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1763-longest-nice-substring](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Divide and Conquer
@@ -394,6 +396,7 @@
 | [0713-subarray-product-less-than-k](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/Tauqueer-Alam/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Tauqueer-Alam/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Tauqueer-Alam/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
