@@ -1,11 +1,18 @@
 class Solution(object):
     def moveZeroes(self, nums):
-        l1=[]
-        l2=[]
-        for i in range(len(nums)):
-            if nums[i]==0:
-                l1.append(nums[i])
-            elif nums[i]!=0:
-                l2.append(nums[i]) 
-        nums[:]=l2 + l1        
-        return nums      
+        temp=[]
+        n=len(nums)
+
+        for i in range(n):
+            if nums[i]!=0:
+                temp.append(nums[i])
+
+        for i in range(len(temp)):
+            nums[i]=temp[i]
+
+        for i in range(len(temp),n):
+            nums[i]=0    
+
+        return nums             
+
+        
